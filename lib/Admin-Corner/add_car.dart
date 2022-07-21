@@ -157,7 +157,7 @@ class _AddCarState extends State<AddCar> {
                   //     SizedBox(width: 10),
                   //     ElevatedButton(
                   //       onPressed: () {
-                  //         _coverImg = getFile("coverPhoto");
+                  //         _coverImg = getFile("adid");
                   //       },
                   //       child: Row(
                   //         crossAxisAlignment: CrossAxisAlignment.center,
