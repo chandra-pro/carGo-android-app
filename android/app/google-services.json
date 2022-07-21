@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "219390353191-bems1k300hmlie6km7kad4i4ovmorvib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carGo.cargo",
+            "certificate_hash": "90fbf70181ef4f5b0102adbb37c7d4366b277ef7"
+          }
+        },
+        {
           "client_id": "219390353191-js9ns7fluhmlrtc7cp864537gjvep561.apps.googleusercontent.com",
           "client_type": 3
         }
